@@ -1,0 +1,19 @@
+{
+  "name": "keirassite",
+  "version": "1.0.0",
+  "description": "Keira's first website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittycatbytes/keirassite.git"
+  },
+  "author": "Keira Norris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kittycatbytes/keirassite/issues"
+  },
+  "homepage": "https://github.com/kittycatbytes/keirassite#readme"
+}

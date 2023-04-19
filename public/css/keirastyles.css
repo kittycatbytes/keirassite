@@ -25,3 +25,6 @@
     font-size: 18px;
     background-color: rgba(256,256,256,.7);
 }
+.selected {
+    box-shadow: inset rgba(0,0,0,.7) 0px 0px 10px 3px;
+}
