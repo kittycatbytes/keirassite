@@ -1,0 +1,27 @@
+#main-area {
+    display: flex;
+    flex-direction: row;
+    font-family: Arial;
+}
+.subcontent-panel {
+    flex: auto;
+    border: 2px black solid;
+    padding: 25px;
+    margin: 25px;
+}
+#left-content {
+    background-color: pink;
+}
+#right-content {
+    background-color: deepskyblue;
+}
+.panel-header {
+    background-color: rgba(256,256,256, .3);
+    padding: 25px;
+    font-size: 35px;
+}
+.panel-content {
+    padding: 30px;
+    font-size: 18px;
+    background-color: rgba(256,256,256,.7);
+}
